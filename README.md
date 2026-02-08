@@ -32,7 +32,9 @@ El curso se divide en tres enfoques fundamentales:
 
 ## 📂 Estructura del repositorio
 labs/        → Laboratorios prácticos
+
 projects/    → Proyectos del curso
+
 homeworks/   → Hojas de trabajo
 
 ## ⚙️ Tecnologías
